@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">helloapp</string>
+    <string name="OU_logo">The University of Oklahoma logo</string>
+    <string name="login_user_textbox">email ID</string>
+    <string name="login_password">Password</string>
+    <string name="Login_button">Log in</string>
+    <string name="forgot_user_pass">Forgot Username/Password?</string>
+    <string name="open_accnt">Create An Account</string>
+    <string name="about_us">About Us</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">helloapp</string>
+    <string name="OU_logo">La Universidad de Oklahoma logo</string>
+    <string name="login_user_textbox">correo electronico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="Login_button">Log in</string>
+    <string name="about_us">Acerca De Nosotros</string>
+    <string name="forgot_user_pass">Olvido Usuario/Contraseña?</string>
+    <string name="open_accnt">Crear Una Cuenta</string>
+</resources>
